@@ -5,6 +5,8 @@ for n in range(0, num*2):
     for i in range(0, n):
         print(i)
 
+#BREYTING ATH!
+
 #Write a Python program using for loops that prints
 #a pattern of *'s.  Given an input n for the number of *, 
 # the program prints 2*n-1 rows.  
